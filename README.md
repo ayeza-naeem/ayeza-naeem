@@ -1,16 +1,31 @@
-## Hi there 👋
+# Ayeza Naeem
+## About Me
 
-<!--
-**ayeza-naeem/ayeza-naeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student interested in software development.
+I enjoy learning programming and developing software projects.
+I am currently improving my skills in programming, Git and GitHub.
 
-Here are some ideas to get you started:
+## Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category  | Technologies              |
+|---------- |---------------------------|
+| Languages | C#, Python                |
+| Tools     | Git, GitHub, VS Community |
+
+## Featured Projects
+### Convert Now
+
+A simple application for currency conversion and calculating remittance amounts based on exchange rates and applicable fees.
+
+### Dracpryx: Realm Of Riches
+
+A turn-based dragon battle game where players choose dragons with unique abilities and fight opponents using strategic attacks and defenses. The goal is to defeat the opponent’s dragon while managing health and abilities.
+
+## Education
+ 
+ Currently a student in Software Engineering program at UET, Lahore.
+
+ ## Contact
+
+ Email: ayezanaeem2306@gmail.com
+ GitHub: [ayeza-naeem](https://github.com/ayeza-naeem)
